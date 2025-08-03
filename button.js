@@ -1,5 +1,5 @@
 // varibles for audio
-const lizard = new Audio("/audio/lizard.mp3");
+const lizard = new Audio("./audio/lizard.mp3");
 const buttons = document.querySelectorAll("button");
 
 // varibles for counter
